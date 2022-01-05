@@ -1,2 +1,12 @@
 # sha1_algorithm
 SHA1 hashing algorithm written in gas assembly
+
+Put your sha1_chunk implementation in the provided template sha1.s file.
+
+To compile the code, run the following command from this directory:
+$ make
+
+To run the programm from this directory:
+$ ./sha1
+
+(Note: The dollar sign in the above command should not be included in the command you type.)
